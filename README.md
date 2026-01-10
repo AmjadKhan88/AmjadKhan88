@@ -17,7 +17,7 @@
 **Backend:** Node.js, Express.js, Laravel (PHP), RESTful APIs, Authentication, Webhooks<br/>
 **Databases:** SQL, MongoDB, Prisma, mongoose, sequelize <br/>
 **Tools & Others:** Git/GitHub, Vercel, API integration, Payment (PayFast, SafePay, Stripe, RazorPay)<br/>
-**Other: Files handling (ImageKit, Cloudinary), AI Boats implemention (Gemini, Deepseek,Chatgpt)<br/>
+  Other: Files handling (ImageKit, Cloudinary), AI Boats implemention (Gemini, Deepseek,Chatgpt)<br/>
 
 ---
 
