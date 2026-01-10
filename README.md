@@ -23,7 +23,7 @@
 ## 🚀 Featured Projects
 
 ### 1. **BS-Bloger**
-![BS-Bloger Preview](https://raw.githubusercontent.com/AmjadKhan88/GlobalTouch-Blogs/main/screenshots/preview.png)  
+![BS-Bloger Preview](https://globaltouch-blogs.vercel.app) 
 **Tech Stack:** Laravel, React.js, Bootstrap, AJAX  
 **Description:** Modern blogging platform with multi-page posts, admin panel, dynamic content, and responsive design.  
 **Live Demo:** [View Project](https://globaltouch-blogs.vercel.app)  
