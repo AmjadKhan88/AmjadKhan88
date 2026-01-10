@@ -22,7 +22,7 @@
 
 ## 🚀 Featured Projects
 
-### 1. **BS-Bloger**
+<!--### 1. **BS-Bloger**
 ![BS-Bloger Preview](https://globaltouch-blogs.vercel.app) 
 **Tech Stack:** Laravel, React.js, Bootstrap, AJAX  
 **Description:** Modern blogging platform with multi-page posts, admin panel, dynamic content, and responsive design.  
@@ -30,6 +30,7 @@
 **Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/GlobalTouch-Blogs)
 
 ---
+-->
 
 <!--### 2. **Gemini AI Chat App**
 ![Gemini AI Chat App Preview](https://raw.githubusercontent.com/AmjadKhan88/Gemini-AI-Chat-App/main/screenshots/preview.png)  
@@ -41,7 +42,7 @@
 ---
 -->
 
-### 3. **Medicine Store Web App**
+<!--### 3. **Medicine Store Web App**
 ![Medicine Store Preview](https://raw.githubusercontent.com/AmjadKhan88/Medicine-Store-Web-App/main/screenshots/preview.png)  
 **Tech Stack:** React.js, Laravel, MySQL  
 **Description:** Full-stack application for managing medicines, patients, inventory, sales reports, and expiry alerts.  
@@ -49,6 +50,7 @@
 **Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/Medicine-Store-Web-App)
 
 ---
+-->
 
 <!--### 4. **E-commerce Website**
 ![E-commerce Website Preview](https://raw.githubusercontent.com/AmjadKhan88/E-commerce-Web-App/main/screenshots/preview.png)  
