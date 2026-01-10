@@ -13,11 +13,11 @@
 ---
 
 ## 🛠️ Skills
-**Frontend:** React, Next.js, Tailwind CSS, React Router, Axios, React Hook Form, React Redux, React Motion, TanStack Quiry
-**Backend:** Node.js, Express.js, Laravel (PHP), RESTful APIs, Authentication, Webhooks
-**Databases:** SQL, MongoDB, Prisma, mongoose, sequelize 
-**Tools & Others:** Git/GitHub, Vercel, API integration, Payment (PayFast, SafePay, Stripe, RazorPay)
-**Other: Files handling (ImageKit, Cloudinary), AI Boats implemention (Gemini, Deepseek,Chatgpt)
+**Frontend:** React, Next.js, Tailwind CSS, React Router, Axios, React Hook Form, React Redux, React Motion, TanStack Quiry<br/>
+**Backend:** Node.js, Express.js, Laravel (PHP), RESTful APIs, Authentication, Webhooks<br/>
+**Databases:** SQL, MongoDB, Prisma, mongoose, sequelize <br/>
+**Tools & Others:** Git/GitHub, Vercel, API integration, Payment (PayFast, SafePay, Stripe, RazorPay)<br/>
+**Other: Files handling (ImageKit, Cloudinary), AI Boats implemention (Gemini, Deepseek,Chatgpt)<br/>
 
 ---
 
