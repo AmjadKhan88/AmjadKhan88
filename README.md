@@ -1,77 +1,227 @@
-# 👋 Hi, I’m Amjad Ullah
-**Full-Stack Web Developer | MERN Stack | React & Laravel | MongoDb , MySql, (mongoose, sequelize) Expert**  
+# 👋 Hi, I'm Amjad Ullah
 
-🚀 I build **modern, responsive, and scalable web applications** with a focus on **performance, UI/UX, and clean code**.
+**Full-Stack Developer | MERN Stack | AI Integration | GenAI Intern @ Internee.pk**
+
+🚀 I build **modern, responsive, and scalable web applications** with a focus on **AI integration, performance, UI/UX, and clean code**.
+
+---
+
+## 📊 GitHub Stats
+
+![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmjadKhan88&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadKhan88&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmjadKhan88&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=AmjadKhan88&color=blue&style=flat)
 
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-ullah-baa484246)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/AmjadKhan88)  
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amjad-ullah-baa484246)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AmjadKhan88)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://developer-portfolio-amjadullah.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amjadfast87@gmail.com)
 
 ---
 
-## 🛠️ Skills
-**Frontend:** React, Next.js, Tailwind CSS, React Router, Axios, React Hook Form, React Redux, React Motion, TanStack Quiry<br/>
-**Backend:** Node.js, Express.js, Laravel (PHP), RESTful APIs, Authentication, Webhooks<br/>
-**Databases:** SQL, MongoDB, Prisma, mongoose, sequelize <br/>
-**Others:** Git/GitHub, Vercel, API integration, Payment (PayFast, SafePay, Stripe, RazorPay), Files handling (ImageKit, Cloudinary), AI Boats implemention (Gemini, Deepseek,Chatgpt)
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+
+### AI & LLM
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white)
+
+### Payments & Tools
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<!--### 1. **BS-Bloger**
-![BS-Bloger Preview](https://globaltouch-blogs.vercel.app) 
-**Tech Stack:** Laravel, React.js, Bootstrap, AJAX  
-**Description:** Modern blogging platform with multi-page posts, admin panel, dynamic content, and responsive design.  
-**Live Demo:** [View Project](https://globaltouch-blogs.vercel.app)  
-**Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/GlobalTouch-Blogs)
+### 🤖 AI Tutor – Personalized Learning Assistant
+**Tech Stack:** Next.js 14, Firebase, Gemini AI, Tailwind CSS
+- AI-generated lessons on any topic with quiz and scoring
+- Chat tutor for follow-up questions
+- Progress tracking + weak areas detection
+- Dark/light theme + responsive design
+- **Live Demo:** [ai-tutor.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/ai-tutor](#)
 
 ---
--->
 
-<!--### 2. **Gemini AI Chat App**
-![Gemini AI Chat App Preview](https://raw.githubusercontent.com/AmjadKhan88/Gemini-AI-Chat-App/main/screenshots/preview.png)  
-**Tech Stack:** React.js, Gemini API  
-**Description:** AI-powered chatbot web app for interactive, real-time conversations.  
-**Live Demo:** [View Project](#)  
-**Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/Gemini-AI-Chat-App)
-
----
--->
-
-<!--### 3. **Medicine Store Web App**
-![Medicine Store Preview](https://raw.githubusercontent.com/AmjadKhan88/Medicine-Store-Web-App/main/screenshots/preview.png)  
-**Tech Stack:** React.js, Laravel, MySQL  
-**Description:** Full-stack application for managing medicines, patients, inventory, sales reports, and expiry alerts.  
-**Live Demo:** [View Project](#)  
-**Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/Medicine-Store-Web-App)
+### 📄 AI Resume Evaluator
+**Tech Stack:** Python, Flask, OpenAI API, LangChain, Tailwind CSS
+- Upload PDF/DOCX resume → AI analysis
+- Skills found + missing skills detection
+- Structure + content scoring (0-100)
+- ATS-friendly tips generator
+- **Live Demo:** [ai-resume-evaluator.onrender.com](#)
+- **GitHub:** [github.com/AmjadKhan88/ai-resume-evaluator](#)
 
 ---
--->
 
-<!--### 4. **E-commerce Website**
-![E-commerce Website Preview](https://raw.githubusercontent.com/AmjadKhan88/E-commerce-Web-App/main/screenshots/preview.png)  
-**Tech Stack:** React.js, Laravel, Tailwind CSS, AJAX  
-**Description:** Product management, dynamic filtering, shopping cart, checkout system, and order tracking.  
-**Live Demo:** [View Project](#)  
-**Source Code:** [GitHub Repo](https://github.com/AmjadKhan88/E-commerce-Web-App)
+### 💬 AI Chatbot for Intern Queries
+**Tech Stack:** Next.js 14, OpenAI API, RAG, Tailwind CSS
+- 24/7 AI assistant for task and policy questions
+- RAG (Retrieval-Augmented Generation) for accurate answers
+- Knowledge base: tasks, policies, FAQ
+- Dark/light theme toggle + suggested questions
+- **Live Demo:** [intern-chatbot.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/intern-chatbot](#)
 
 ---
--->
 
-## 📊 GitHub Stats
-![Amjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmjadKhan88&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmjadKhan88&layout=compact&theme=radical)
+### 🎵 Pulse Music Platform
+**Tech Stack:** MERN Stack, JWT, Tailwind CSS
+- Full-stack music streaming with audio playback
+- Playlist creation and management
+- Search by song, artist, or genre
+- Optimized database queries (40% faster)
+- **GitHub:** [github.com/AmjadKhan88/pulse-music-platform](#)
+
+---
+
+### 🛒 SmartBazaar – E-Commerce Platform
+**Tech Stack:** MERN Stack, Stripe, Cloudinary, JWT, Tailwind CSS
+- Complete e-commerce with cart, wishlist, orders
+- Admin panel for products, categories, orders
+- Stripe payment integration
+- Cloudinary image uploads
+- **GitHub:** [github.com/AmjadKhan88/SmartBazaar-e-commerce-full](#)
+
+---
+
+### 🤝 Nexus Platform – Video Calling
+**Tech Stack:** MERN Stack, WebRTC, Socket.IO, Cloudinary, Stripe
+- WebRTC peer-to-peer video/audio calling
+- Socket.IO real-time messaging (100+ concurrent users)
+- STUN/TURN server fallback
+- **GitHub:** [github.com/AmjadKhan88/nexus-platform](#)
+
+---
+
+### 📚 EnglishLabs – Learning Platform
+**Tech Stack:** Next.js 14, MongoDB, Tailwind CSS, Monaco Editor, TipTap
+- Playlist system (Grammar, Vocabulary, Speaking, Writing)
+- Live code editor (Monaco) for HTML/CSS/JS
+- User progress tracking + "Continue Learning"
+- Password reset with email (Nodemailer)
+- **GitHub:** [github.com/AmjadKhan88/englishlabs](#)
+
+---
+
+### 📊 Project Management App
+**Tech Stack:** MERN Stack, Drag & Drop, Tailwind CSS
+- Kanban boards with drag & drop
+- Task assignments, due dates, labels
+- Team management with role-based permissions
+- **Live Demo:** [project-managment-app-rouge.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/projects-managment-app](#)
+
+---
+
+## 💼 Experience
+
+### Generative AI Intern @ Internee.pk (Current)
+*June 2026 – Present*
+- Built AI Tutor: Next.js + Firebase + Gemini AI
+- Built AI Resume Evaluator: Python + Flask + OpenAI
+- Built AI Chatbot: RAG + Next.js + OpenAI API
+
+### Web Development Intern @ Arch Technologies
+*March 2026 – April 2026*
+- Built Pro-Stack AI (SaaS with 8+ AI tools)
+- Built EnglishLabs (learning platform with playlist system)
+- Built Pulse Music Platform (music streaming)
+
+### Full-Stack Developer Intern @ DevelopersHub Corporation
+*March 2026 – April 2026*
+- Built Nexus Platform (WebRTC video calls, 100+ concurrent users)
+- Built SmartBazaar (e-commerce with Stripe)
+- Built Project Management App (Kanban boards)
+
+### Freelance Full-Stack Developer @ Pro Stack Creations
+*January 2023 – Present*
+- Delivered 10+ production-ready web applications
+- Built e-commerce platforms, real-time chat apps, LMS, AI tools
+
+---
+
+## 📈 Achievements
+
+- ✅ 3 Generative AI tasks completed at Internee.pk
+- ✅ 2 internships completed (Arch Technologies, DevelopersHub Corp)
+- ✅ 10+ production-ready projects built
+- ✅ 100+ concurrent users supported (WebRTC)
+- ✅ 40% query optimization (Pulse Music Platform)
+- ✅ DIT Diploma (76%) + Ongoing BS CS (2nd Semester)
+
+---
+
+## 📚 Education
+
+| Degree | Institution | Year | Status |
+|--------|-------------|------|--------|
+| BS Computer Science | University of Peshawar | 2023 – Present | 2nd Semester (Ongoing) |
+| DIT Diploma (76%) | Board of Technical & Commerce Education, Peshawar | 2023 | Completed |
 
 ---
 
 ## 📢 About Me
-I love creating **web apps that are both functional and visually appealing**.   
-I constantly explore new technologies to **stay at the cutting edge of web development**.
+
+I'm a **self-taught Full-Stack Developer** who started coding in January 2023. Since then, I've built 10+ production-ready applications, completed 2 internships, and am currently working as a **Generative AI Intern at Internee.pk**.
+
+I love creating **web apps that solve real problems** – from AI-powered career platforms to real-time video calling systems.
+
+I constantly explore new technologies to **stay at the cutting edge of web development**, especially in **AI integration and SaaS products**.
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 🎯 What I'm Looking For
+
+I'm actively seeking **full-stack developer roles (remote/onsite/relocation)** where I can:
+- Build meaningful products with AI integration
+- Contribute to scalable SaaS platforms
+- Grow as a developer in a collaborative environment
+
+**Open to internships, entry-level, and junior positions.**
+
+---
+
+> “Code is like humor. When you have to explain it, it's bad.” – Cory House
+
+---
+
+## 📊 Weekly Coding Stats
+
+<!-- START_SECTION:waka -->
+```text
+TypeScript    ████████████████████░░░░    ~60%
+JavaScript    ████████████░░░░░░░░░░░░    ~30%
+Python        ████░░░░░░░░░░░░░░░░░░░░    ~10%
