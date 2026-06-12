@@ -71,8 +71,8 @@
 - LinkedIn PDF to Resume Converter + AI Background Remover
 - README.md Generator DevTool + 20+ Premium Templates
 - Payment integration: Pro $19/mo, Business $29/mo
-- **Live Demo:** [prostack-ai.vercel.app](#)
-- **GitHub:** [github.com/AmjadKhan88/prostack-ai](#)
+- **Live Demo:** [https://pro-stack-creations.vercel.app](#)
+- **GitHub:** Premium project dm for source code
 
 ---
 
@@ -83,7 +83,8 @@
 - User progress tracking + "Continue Learning" button
 - Password reset with email (Nodemailer)
 - Google OAuth + email authentication
-- **GitHub:** [github.com/AmjadKhan88/englishlabs](#)
+- **Live Demo:** [https://englishlabs.vercel.app](#)
+- **GitHub:** Premium project dm for source code
 
 ---
 
@@ -93,7 +94,7 @@
 - Socket.IO real-time messaging (100+ concurrent users)
 - STUN/TURN server fallback for restricted networks
 - Screen sharing, mute/unmute, chat alongside video
-- **GitHub:** [github.com/AmjadKhan88/nexus-platform](#)
+- **GitHub:** [https://github.com/AmjadKhan88/nexus-platform](#)
 
 ---
 
@@ -103,7 +104,7 @@
 - Admin panel for products, categories, orders
 - Stripe payment integration + Cloudinary image uploads
 - Nodemailer email notifications
-- **GitHub:** [github.com/AmjadKhan88/SmartBazaar-e-commerce-full](#)
+- **GitHub:** [https://github.com/AmjadKhan88/SmartBazaar-e-commerce-full](#)
 
 ---
 
@@ -113,8 +114,8 @@
 - Task assignments, due dates, labels, file attachments
 - Team management with role-based permissions
 - Email notifications + search and filters
-- **Live Demo:** [project-managment-app-rouge.vercel.app](#)
-- **GitHub:** [github.com/AmjadKhan88/projects-managment-app](#)
+- **Live Demo:** [https://projects-managment-app.vercel.app](#)
+- **GitHub:** [https://github.com/AmjadKhan88/projects-managment-app](#)
 
 ---
 
