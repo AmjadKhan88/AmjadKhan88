@@ -64,7 +64,82 @@
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Tutor – Personalized Learning Assistant
+### 1. 🤖 Pro-Stack AI – AI Career Platform
+**Tech Stack:** MERN Stack, Next.js, Gemini API, Tailwind CSS, SafePay/PayFast
+- AI Resume Builder, Cover Letter Generator, Roadmap Generator
+- ATS Resume Checker (score 0-100) + Job Recommendations
+- LinkedIn PDF to Resume Converter + AI Background Remover
+- README.md Generator DevTool + 20+ Premium Templates
+- Payment integration: Pro $19/mo, Business $29/mo
+- **Live Demo:** [prostack-ai.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/prostack-ai](#)
+
+---
+
+### 2. 📚 EnglishLabs – Interactive Learning Platform
+**Tech Stack:** Next.js 14, MongoDB, Tailwind CSS, Monaco Editor, TipTap, Nodemailer, Cloudinary
+- Playlist system (Grammar, Vocabulary, Speaking, Writing, Listening, Reading)
+- Live code editor (Monaco) for HTML/CSS/JS practice
+- User progress tracking + "Continue Learning" button
+- Password reset with email (Nodemailer)
+- Google OAuth + email authentication
+- **GitHub:** [github.com/AmjadKhan88/englishlabs](#)
+
+---
+
+### 3. 🤝 Nexus Platform – Video/Audio Calling
+**Tech Stack:** MERN Stack, WebRTC, Socket.IO, Cloudinary, Stripe, Tailwind CSS
+- WebRTC peer-to-peer video/audio calling
+- Socket.IO real-time messaging (100+ concurrent users)
+- STUN/TURN server fallback for restricted networks
+- Screen sharing, mute/unmute, chat alongside video
+- **GitHub:** [github.com/AmjadKhan88/nexus-platform](#)
+
+---
+
+### 4. 🛒 SmartBazaar – E-Commerce Platform
+**Tech Stack:** MERN Stack, Stripe, Cloudinary, JWT, Tailwind CSS
+- Complete e-commerce with cart, wishlist, orders
+- Admin panel for products, categories, orders
+- Stripe payment integration + Cloudinary image uploads
+- Nodemailer email notifications
+- **GitHub:** [github.com/AmjadKhan88/SmartBazaar-e-commerce-full](#)
+
+---
+
+### 5. 📊 Project Management App
+**Tech Stack:** MERN Stack, Drag & Drop, Tailwind CSS
+- Kanban boards with drag & drop (react-beautiful-dnd)
+- Task assignments, due dates, labels, file attachments
+- Team management with role-based permissions
+- Email notifications + search and filters
+- **Live Demo:** [project-managment-app-rouge.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/projects-managment-app](#)
+
+---
+
+### 6. 🎵 Pulse Music Platform
+**Tech Stack:** MERN Stack, JWT, Tailwind CSS
+- Full-stack music streaming with audio playback engine
+- Playlist creation and management
+- Search by song, artist, or genre
+- Optimized database queries (40% faster)
+- **GitHub:** [github.com/AmjadKhan88/pulse-music-platform](#)
+
+---
+
+### 7. 💬 Social-Pulse – Social Media App
+**Tech Stack:** MERN Stack, Socket.IO, Tailwind CSS
+- User authentication with JWT
+- Post creation, editing, deletion
+- Nested comments system with pagination
+- Like/unlike API with optimistic updates
+- Emoji reaction picker with hover reveal
+- **GitHub:** [github.com/AmjadKhan88/social-pulse](#)
+
+---
+
+### 8. 🎓 AI Tutor – Personalized Learning Assistant
 **Tech Stack:** Next.js 14, Firebase, Gemini AI, Tailwind CSS
 - AI-generated lessons on any topic with quiz and scoring
 - Chat tutor for follow-up questions
@@ -75,7 +150,7 @@
 
 ---
 
-### 📄 AI Resume Evaluator
+### 9. 📄 AI Resume Evaluator
 **Tech Stack:** Python, Flask, OpenAI API, LangChain, Tailwind CSS
 - Upload PDF/DOCX resume → AI analysis
 - Skills found + missing skills detection
@@ -86,7 +161,7 @@
 
 ---
 
-### 💬 AI Chatbot for Intern Queries
+### 10. 💬 AI Chatbot for Intern Queries
 **Tech Stack:** Next.js 14, OpenAI API, RAG, Tailwind CSS
 - 24/7 AI assistant for task and policy questions
 - RAG (Retrieval-Augmented Generation) for accurate answers
@@ -97,52 +172,22 @@
 
 ---
 
-### 🎵 Pulse Music Platform
-**Tech Stack:** MERN Stack, JWT, Tailwind CSS
-- Full-stack music streaming with audio playback
-- Playlist creation and management
-- Search by song, artist, or genre
-- Optimized database queries (40% faster)
-- **GitHub:** [github.com/AmjadKhan88/pulse-music-platform](#)
+### 11. 📝 Todo App
+**Tech Stack:** React.js, Vite, CSS3, Local Storage API
+- Add, edit, delete tasks
+- Mark complete/incomplete
+- Persistent local storage
+- Fully responsive design
+- **Live Demo:** [prostackcreations-todo.vercel.app](#)
+- **GitHub:** [github.com/AmjadKhan88/Todo](#)
 
 ---
 
-### 🛒 SmartBazaar – E-Commerce Platform
-**Tech Stack:** MERN Stack, Stripe, Cloudinary, JWT, Tailwind CSS
-- Complete e-commerce with cart, wishlist, orders
-- Admin panel for products, categories, orders
-- Stripe payment integration
-- Cloudinary image uploads
-- **GitHub:** [github.com/AmjadKhan88/SmartBazaar-e-commerce-full](#)
-
----
-
-### 🤝 Nexus Platform – Video Calling
-**Tech Stack:** MERN Stack, WebRTC, Socket.IO, Cloudinary, Stripe
-- WebRTC peer-to-peer video/audio calling
-- Socket.IO real-time messaging (100+ concurrent users)
-- STUN/TURN server fallback
-- **GitHub:** [github.com/AmjadKhan88/nexus-platform](#)
-
----
-
-### 📚 EnglishLabs – Learning Platform
-**Tech Stack:** Next.js 14, MongoDB, Tailwind CSS, Monaco Editor, TipTap
-- Playlist system (Grammar, Vocabulary, Speaking, Writing)
-- Live code editor (Monaco) for HTML/CSS/JS
-- User progress tracking + "Continue Learning"
-- Password reset with email (Nodemailer)
-- **GitHub:** [github.com/AmjadKhan88/englishlabs](#)
-
----
-
-### 📊 Project Management App
-**Tech Stack:** MERN Stack, Drag & Drop, Tailwind CSS
-- Kanban boards with drag & drop
-- Task assignments, due dates, labels
-- Team management with role-based permissions
-- **Live Demo:** [project-managment-app-rouge.vercel.app](#)
-- **GitHub:** [github.com/AmjadKhan88/projects-managment-app](#)
+### 12. 🛍️ E-Commerce Full-Stack Design
+**Tech Stack:** MERN Stack, Stripe, Tailwind CSS
+- Complete e-commerce platform with payments
+- Shopping cart + order management
+- **GitHub:** [github.com/AmjadKhan88/ecommerce-fullstack-design](#)
 
 ---
 
@@ -158,7 +203,7 @@
 *March 2026 – April 2026*
 - Built Pro-Stack AI (SaaS with 8+ AI tools)
 - Built EnglishLabs (learning platform with playlist system)
-- Built Pulse Music Platform (music streaming)
+- Built Pulse Music Platform + Social-Pulse
 
 ### Full-Stack Developer Intern @ DevelopersHub Corporation
 *March 2026 – April 2026*
@@ -222,6 +267,7 @@ I'm actively seeking **full-stack developer roles (remote/onsite/relocation)** w
 
 <!-- START_SECTION:waka -->
 ```text
-TypeScript    ████████████████████░░░░    ~60%
-JavaScript    ████████████░░░░░░░░░░░░    ~30%
+JavaScript    ████████████████████░░░░    ~50%
+TypeScript    ██████████████░░░░░░░░░░    ~35%
 Python        ████░░░░░░░░░░░░░░░░░░░░    ~10%
+HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░░░    ~5%
