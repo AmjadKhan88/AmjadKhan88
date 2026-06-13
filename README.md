@@ -1,3 +1,9 @@
+<html>
+  <head>
+    <meta name="google-site-verification" content="TfNaWlR_RbcO-1E1SPWCsA7vh0jPGV6N38EZ7yUjYrU" />
+  </head>
+</html>
+
 # 👋 Hi, I'm Amjad Ullah
 
 **Full-Stack Developer | MERN Stack | AI Integration | GenAI Intern @ Internee.pk**
